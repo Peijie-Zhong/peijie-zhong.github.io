@@ -8,8 +8,6 @@ venue: 'Nature scientific reports'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 citation: 'Naomi Arnold, Peijie Zhong. (2023). &quot;Mining local and global temporal motifs from cryptocurrency transaction networks. &quot; <i>Nature scientific reports. </i>. 1(2).'
 ---
-This paper is about the number 2. The number 3 is left for future work.
-
 [Download paper here](http://academicpages.github.io/files/paper2.pdf)
 
-Recommended citation: Naomi Arnold, Peijie Zhong (2023). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: Naomi Arnold, Peijie Zhong (2023). "Mining local and global temporal motifs from cryptocurrency transaction networks." <i>Nature scientific reports</i>. 1(2).
