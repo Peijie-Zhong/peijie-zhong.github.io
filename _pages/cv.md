@@ -16,7 +16,7 @@ Education
 
 Experience
 ======
-* Software development intern
+* Software development intern Oct. 2021 - May 2022
   * Accenture
   * Duties included: [EDIT LATER]
 
@@ -37,7 +37,3 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
