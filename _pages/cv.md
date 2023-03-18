@@ -18,14 +18,18 @@ Experience
 ======
 * Software development intern Oct. 2021 - May 2022
   * Accenture
-  * Duties included: [EDIT LATER]
+  * Main work: During the period, I was under the  guidance of my mentor and cooperated with my teammates to develop a cross-platform application for business use. 
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+<!--
+
+Delete the annotation here after you have
+
 Talks
 ======
   <ul>{% for post in site.talks %}
@@ -37,3 +41,5 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+  
+  -->
